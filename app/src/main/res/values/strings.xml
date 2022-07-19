@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RvWithTwoItems</string>
+    <string name="giorgi_gabidauri">Giorgi Gabidauri</string>
+    <string name="mainText">post texta asdjnfajnsdkjnkjnasjkjnakjnasdjjnfakjnsdfjanskdjfnaksjndfkajnsdfasdfa</string>
+    <string name="refresh_list">Refresh List</string>
+    <string name="full_name">full name</string>
+    <string name="main_text">Main Text</string>
+    <string name="with_image">with Image</string>
+    <string name="upload_from_gallery">Upload From Gallery</string>
+    <string name="save">save</string>
+    <string name="add_post">Add Post</string>
+</resources>
